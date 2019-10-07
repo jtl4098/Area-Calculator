@@ -1,0 +1,7 @@
+C:\Users\Taekyung\source\repos\Lab2A\Lab2A\bin\Debug\Lab2A.exe.config
+C:\Users\Taekyung\source\repos\Lab2A\Lab2A\bin\Debug\Lab2A.exe
+C:\Users\Taekyung\source\repos\Lab2A\Lab2A\bin\Debug\Lab2A.pdb
+C:\Users\Taekyung\source\repos\Lab2A\Lab2A\obj\Debug\Lab2A.csprojAssemblyReference.cache
+C:\Users\Taekyung\source\repos\Lab2A\Lab2A\obj\Debug\Lab2A.csproj.CoreCompileInputs.cache
+C:\Users\Taekyung\source\repos\Lab2A\Lab2A\obj\Debug\Lab2A.exe
+C:\Users\Taekyung\source\repos\Lab2A\Lab2A\obj\Debug\Lab2A.pdb
